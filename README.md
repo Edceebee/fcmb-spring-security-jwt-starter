@@ -479,6 +479,3 @@ This is a technical assessment project. All rights reserved.
 ---
 
 **Built with ☕ and Spring Boot**
-   f c m b - s p r i n g - s e c u r i t y - j w t - s t a r t e r 
- 
- 
